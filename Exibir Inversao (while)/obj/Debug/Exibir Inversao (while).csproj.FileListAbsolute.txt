@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\bin\Debug\Exibir Inversao (while).exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\bin\Debug\Exibir Inversao (while).exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\bin\Debug\Exibir Inversao (while).pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\obj\Debug\Exibir Inversao (while).csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\obj\Debug\Exibir Inversao (while).csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\obj\Debug\Exibir Inversao (while).csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\obj\Debug\Exibir Inversao (while).exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao (while)\Exibir Inversao (while)\obj\Debug\Exibir Inversao (while).pdb
